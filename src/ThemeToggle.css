@@ -221,10 +221,3 @@ body.dark {
     right: 0%;
   }
 }
-
-@media screen and (max-width: 480px) {
-  #checkBoxContainer {
-    position: relative;
-    left: 75%;
-  }
-}
